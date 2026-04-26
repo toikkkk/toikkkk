@@ -22,7 +22,7 @@ membangun model lalu men-deploy ke web & Android.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```txt
 🎓  PENS — Politeknik Elektronika Negeri Surabaya, Semester 4
@@ -35,7 +35,7 @@ membangun model lalu men-deploy ke web & Android.
 
 ---
 
-## 🤖 Machine Learning & Data Science
+##  Machine Learning & Data Science
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -52,14 +52,14 @@ membangun model lalu men-deploy ke web & Android.
 
 ---
 
-## 📊 Dashboard & Visualization
+##  Dashboard & Visualization
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 🌐 Web & Mobile Development
+##  Web & Mobile Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,7 +72,7 @@ membangun model lalu men-deploy ke web & Android.
 
 ---
 
-## 🗄️ Database & Cloud
+##  Database & Cloud
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,7 +82,7 @@ membangun model lalu men-deploy ke web & Android.
 
 ---
 
-## 🎨 Design & Creative Tools
+##  Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
