@@ -8,8 +8,7 @@
 
 **Mahasiswa Politeknik Elektronika Negeri Surabaya — Semester 4**
 
-Passionate di **Data Science & Machine Learning** —  
-membangun model lalu men-deploy ke web & Android.
+Passionate di **Data Science & Machine Learning** — 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thoriqhisam)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toikkkkkkkkkk)
