@@ -20,17 +20,7 @@ membangun model lalu men-deploy ke web & Android.
 
 </div>
 
----
 
-##  About Me
-
-```txt
-PENS — Politeknik Elektronika Negeri Surabaya, Semester 4
-Fokus: Machine Learning & Data Analysis
-Suka membangun dashboard interaktif dari data mentah
-Deploy model ML ke web app & aplikasi Android
-Sedang eksplorasi: Deep Learning & Computer Vision
-Fun fact: debugging model ML itu lebih seru dari tidur
 ```
 
 ---
