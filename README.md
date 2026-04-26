@@ -20,9 +20,6 @@ membangun model lalu men-deploy ke web & Android.
 
 </div>
 
-
-```
-
 ---
 
 ##  Machine Learning & Data Science
