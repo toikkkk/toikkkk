@@ -6,7 +6,7 @@
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-**Mahasiswa Politeknik Elektronika Negeri Surabaya — Semester 4**
+**Mahasiswa Politeknik Elektronika Negeri Surabaya — Semester 5**
 
 Passionate di **Data Science & Machine Learning**
 
