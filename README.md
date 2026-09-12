@@ -90,8 +90,8 @@ Passionate di **Data Science & Machine Learning**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toikkkk&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&cache_seconds=1800" alt="Toik's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toikkkk&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&cache_seconds=1800" alt="Toik's Top Languages" height="165"/>
+  <img src="https://toikkkk-github-readme-stats.vercel.app/api?username=toikkkk&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&cache_seconds=1800&v=2" alt="Toik's GitHub Stats" height="165"/>
+  <img src="https://toikkkk-github-readme-stats.vercel.app/api/top-langs/?username=toikkkk&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&cache_seconds=1800&v=2" alt="Toik's Top Languages" height="165"/>
 </p>
 
 <!-- Animated wave footer -->
