@@ -21,7 +21,7 @@ Passionate di **Data Science & Machine Learning**
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Passionate di **Data Science & Machine Learning**
 
 <br>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -87,7 +87,7 @@ Passionate di **Data Science & Machine Learning**
   </picture>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://toikkkk-github-readme-stats.vercel.app/api?username=toikkkk&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&cache_seconds=1800&v=2" alt="Toik's GitHub Stats" height="165"/>
