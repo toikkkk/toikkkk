@@ -21,7 +21,7 @@ jobs:
           github_user_name: toikkkk
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#f0883e&color_dots=#161b22,#0d419d,#1158c7,#316dca,#58a6ff&color_outline=#30363d
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#f0883e&color_dots=#0d1117,#0d419d,#1158c7,#316dca,#58a6ff&color_outline=#30363d
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f0883e&color_dots=#161b22,#0d419d,#1158c7,#316dca,#58a6ff&color_outline=#30363d
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
