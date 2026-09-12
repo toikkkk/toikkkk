@@ -21,7 +21,7 @@ Passionate di **Data Science & Machine Learning**
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,21 +77,21 @@ Passionate di **Data Science & Machine Learning**
 
 <br>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toikkkkk/toikkkkk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toikkkkk/toikkkkk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toikkkkk/toikkkkk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toikkkk/toikkkk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toikkkk/toikkkk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toikkkk/toikkkk/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toikkkkk&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d" alt="Toik's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toikkkkk&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d" alt="Toik's Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=toikkkk&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d" alt="Toik's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toikkkk&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d" alt="Toik's Top Languages" height="165"/>
 </p>
 
 <!-- Animated wave footer -->
