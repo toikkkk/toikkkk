@@ -10,6 +10,10 @@
 
 Passionate di **Data Science & Data Analyist**
 
+<a href="https://www.toik.my.id/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f6feb?style=for-the-badge&logoColor=white" alt="Visit My Portfolio" height="40"/>
+</a>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thoriqhisam)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toikkkkkkkkkk)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thoriqhisam05@gmail.com)
